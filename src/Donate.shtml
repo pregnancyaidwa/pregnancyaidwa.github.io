@@ -1,0 +1,142 @@
+﻿<!DOCTYPE html>
+<!-- Copyright (c) 2017 Pregnancy Aid of Washington State -->
+<html lang="en">
+<head>
+    <!--#include file="_Head1.html" -->
+    <meta name="description" 
+          content="Help your community by contributions of money, clothing and other material! We are a 501c3 charity, and your donations are tax deductible." 
+          />
+    <meta name="author" content="Pregnancy Aid" />
+    <title>Donations - Pregnancy Aid of Washington</title>
+    <!--#include file="_Head2.html" -->
+</head>
+<body>
+    <!--#include file="_TopNav.html" -->
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="lobster-big text-success">
+                    Your donations make a difference!
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-8">
+                <div>
+                    <p class="section-heading">
+                        Help your community thrive
+                    </p>
+                    <p>
+                        Support Pregnancy Aid with clothing, formula or other in-kind donations, or 
+                        through finanicial support. Our <a href="Volunteer.shtml">all volunteer</a>
+                        staff will process your donation to ensure your generosity helps the 
+                        right clients at the right time.
+                    </p>
+
+                    <p class="section-heading">
+                        In-kind donations
+                    </p>
+                    <p>
+                        Donations can be dropped off at our <a href="FindUs.shtml">nearest office</a>.
+                        If you need assistance please <a href="FindUs.shtml">contact us</a> to make arrangements.
+                    </p>
+
+                    <p class="section-heading">
+                        Financial Contribution by Check
+                    </p>
+                    <p>
+                        Please <a href="FindUs.shtml">contact us</a> to find the office near you.
+                        Financial donations by check can be sent to our mailing addresses,
+                        or dropped off in person.
+                        Or use your bank's "Pay by Mail" feature to have the bank send a check to our mailing address.
+                    </p>
+
+                </div>
+            </div>
+
+            <div class="col-sm-4">
+                <img class="img-responsive" src="images/two-babies-directed-eyes.jpeg" alt="image of baby which seems to be on a cloud" />
+            </div>
+        </div> <!-- row -->
+
+        <div class="row">
+            <div class="col-sm-2">
+                <div>
+                    <p class="section-heading well-top">
+                        Donate online
+                    </p>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="text-center">
+                    <h4 class="section-heading text-success" style="display: inline; font-weight: 600;">Pregnancy Aid of Thurston County</h4>
+
+                    <div id="donate-button-container">
+                        <div id="donate-button"></div>
+                        <script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
+                        <script>
+                        PayPal.Donation.Button({
+                        env:'production',
+                        hosted_button_id:'PECRHSLNNNT3J',
+                        image: {
+                        src:'https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif',
+                        alt:'Donate with PayPal button',
+                        title:'PayPal - The safer, easier way to pay online!',
+                        }
+                        }).render('#donate-button');
+                        </script>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xs-12 hidden-sm hidden-md hidden-lg"><hr style="margin: 8px; height: 2px; background-color: black;" /></div>
+
+            <div class="col-sm-4">
+                <div class="text-center">
+                    <h4 class="section-heading text-success" style="display: inline; font-weight: 600;">Other Pregnancy Aid Offices</h4>
+                    <p class="text-center" style="font-size: 14px; margin-top: 6px; margin-bottom: 6px;">Other offices are not yet ready</p>
+                    <p class="text-center" style="font-size: 14px;">Please <a href="FindUs.shtml">mail</a> or <a href="FindUs.shtml">drop off</a> a check. <i>Thank you!</i></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-8">
+                <div>
+                    <p class="section-heading">
+                        All donations are tax deductible
+                    </p>
+                    <p>
+                        As a 501(c)3 charitable organization, your donations are generally tax deductible.
+                        We will be happy to supply you with a receipt for your donation.
+                        If you made an online donation, please <a href="FindUs.shtml">contact us</a> to let us know your mailing address.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-3 hidden-xs">
+                <img class="img-responsive" src="images/big-brother-holds-baby-brother-while-sitting-on-bench.jpeg" alt="big brother holds baby brother while sitting on a bench" />
+            </div>
+            <div class="col-sm-9">
+                <p class="lobster-big text-success">
+                    Thank you!
+                </p>
+                <p class="section-heading">
+                    <a href="FindUs.shtml">Find an office near you and join our mission to help our communities!</a>
+                </p>
+            </div>
+            <div class="col-sm-3 visible-xs">
+                <img class="img-responsive" src="images/big-brother-holds-baby-brother-while-sitting-on-bench.jpeg" alt="big brother holds baby brother while sitting on a bench" />
+            </div>
+        </div>
+        <br />
+        <!--#include file="_Highlights.html" -->
+        <br />
+        <!--#include file="_WeCare.html" -->
+        <!--#include file="_zFooter-Nav.html" -->
+    </div> <!-- /container -->
+    <!--#include file="_zFooter-zBootstrap.html" -->
+</body>
+</html>

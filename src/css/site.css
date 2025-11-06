@@ -1,0 +1,119 @@
+﻿/* Copyright (c) 2017 Pregnancy Aid of Washington State */
+/***
+note: when changing css, mobile android might not fetch
+the new css file. Change the dummy querystring parameter
+for the css reference in _Head2.html to force the reload!
+***/
+
+body 
+{
+    padding-top: 50px; /* needed when using navbar-fixed-top for topnav */
+}
+
+
+.lobster-big
+{
+    font-weight: 100;
+    font-size: 38px;
+    line-height: 1.7;
+    font-family: 'Lobster Two', Helvetica, sans-serif;
+    /*color: green;*/
+}
+
+.lobster-xl
+{
+    font-weight: 300;
+    font-size: 75px;
+    line-height: 1.0;
+    font-family: 'Lobster Two', Helvetica, sans-serif;
+    /*color: green;*/
+}
+
+.lobster
+{
+    font-family: 'Lobster Two', Helvetica, sans-serif;
+}
+
+.tbd
+{
+    border: 1px dotted red;
+}
+
+.text-right
+{
+    text-align: right;
+}
+
+.text-overlay-container
+{
+    position: relative;
+}
+
+.text-overlay-text
+{
+    position: absolute;
+    top: 100px;
+    left: 15px;
+    width: 100%;
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.text-wrap
+{
+    white-space: normal;
+}
+
+.desmoines-color
+{
+    color: #e3378e
+}
+
+
+
+.image-credits img
+{
+    max-width: 100%;
+    max-height: 100px;
+}
+
+.image-credits .row
+{
+    border-bottom: 1px solid gray;
+    padding: 15px;
+}
+
+.image-credits dt
+{
+    text-align: center;
+}
+
+.highlights h3, .highlights h2
+{
+    color: #042b51;
+}
+
+.section-heading /* based on bootstrap.css lead; works outside of a well plus other changes */
+{
+    margin-top: 20px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.4;
+}
+@media (min-width: 768px) {
+.section-heading {
+    font-size: 21px;
+}
+}
+
+.well-top { /* add to first section-heading paragraph, for example (see above) */
+    margin-top: 0px;
+}
+
+/***
+note: when changing css, mobile android might not fetch
+the new css file. Change the dummy querystring parameter
+for the css reference in _Head2.html to force the reload!
+***/

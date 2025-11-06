@@ -1,0 +1,180 @@
+﻿<!DOCTYPE html>
+<!-- Copyright (c) 2017 Pregnancy Aid of Washington State -->
+<html lang="en">
+<head>
+    <!--#include file="_Head1.html" -->
+    <meta name="description"
+          content="Licensing information for the images used on the Pregnancy Aid website." 
+          />
+    <meta name="author" content="Pregnancy Aid" />
+    <title>Images</title>
+    <!--#include file="_Head2.html" -->
+</head>
+<body>
+    <!--#include file="_TopNav.html" -->
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 lobster-big text-success">
+                About images on this website
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12">
+                <p>
+                    We use images from a variety of sources and we are very grateful to use them.
+                    Please note that our use of these images in no way implies an endorsement of
+                    any kind from the image authors, or even knowledge of our website.
+                    <!--
+                        cf: https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia
+                        cf: https://commons.wikimedia.org/wiki/Commons:Credit_line#Creative_Commons
+                        cf: https://commons.wikimedia.org/wiki/Commons:Credit_line#Courtesy_credit_lines
+                    -->
+                </p>
+            </div>
+        </div>
+        <div class="image-credits">
+            <div class="row">
+                <dt class="col-sm-3"><img src="images/Washington-state-map_h.svg" /></dt>
+                <dd class="col-sm-9">
+                    This image is from the
+                    <a target="_blank" href="https://commons.wikimedia.org/w/index.php?title=File:Washington-state-map_h.svg&oldid=190240144">wikimedia</a>
+                    website, and is in the
+                    <a target="_blank" href="https://en.wikipedia.org/wiki/Public_domain">public domain</a>.
+                </dd>
+            </div>
+            <div class="row">
+                <dt class="col-sm-3"><img src="images/Pregnant-Woman-Illustration-2.svg" /></dt>
+                <dd class="col-sm-9">
+                    This image is from the
+                    <a target="_blank" href="https://openclipart.org/detail/221997/pregnant-woman-illustration-2">OpenClipArt</a>
+                    website, and has been placed in the public domain using the
+                    <a target="_blank" href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Zero 1.0 Public Domain License</a>.
+                </dd>
+            </div>
+            <div class="row">
+                <dt class="col-sm-3"><img src="./images/Logo-Combined-Images.svg" /></dt>
+                <dd class="col-sm-9">
+                    This image is derived from the above two images, and is copyright &copy; Pregnancy Aid of Washington. All rights reserved.
+                </dd>
+            </div>
+
+            <div class="row">
+                <dt class="col-sm-3">
+                    <img src="images/baby-girl-smiling.jpeg" alt="baby girl smiling" />
+                </dt>
+                <dd class="col-sm-9">
+                    This image by
+                    <a href="https://pixabay.com/en/users/btchurch-65124/">btchurch</a> is from the
+                    <a target="_blank" href="https://pixabay.com/en/baby-child-kid-girl-cute-care-1317604/">pixabay</a>
+                    website, and has been placed in the public domain using the
+                    <a target="_blank" href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Zero 1.0 Public Domain License</a>.
+                </dd>
+            </div>
+
+            <div class="row">
+                <dt class="col-sm-3">
+                    <img src="images/big-brother-holds-baby-brother-while-sitting-on-bench.jpeg" alt="big brother holds baby brother while sitting on a bench" />
+                </dt>
+                <dd class="col-sm-9">
+                    This image by
+                    <a href="https://pixabay.com/en/users/sathyatripodi-460273/">sathyatripodi</a> is from the
+                    <a target="_blank" href="https://pixabay.com/en/brothers-boys-kids-baby-newborn-457234/">pixabay</a>
+                    website, and has been placed in the public domain using the
+                    <a target="_blank" href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Zero 1.0 Public Domain License</a>.
+                </dd>
+            </div>
+
+            <div class="row">
+                <dt class="col-sm-3">
+                    <img src="images/father-and-baby-sleeping.jpg" alt="father and baby sleeping" />
+                </dt>
+                <dd class="col-sm-9">
+                    This image provided by
+                    <a href="https://pixabay.com/en/users/PublicDomainPictures-14/">PublicDomainPictures-14</a> is from the
+                    <a target="_blank" href="https://pixabay.com/en/baby-child-cute-dad-daddy-family-22194/">pixabay</a>
+                    website, and has been placed in the public domain using the
+                    <a target="_blank" href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Zero 1.0 Public Domain License</a>.
+                </dd>
+            </div>
+
+            <div class="row">
+                <dt class="col-sm-3">
+                    <img src="images/two-babies-directed-eyes.jpeg" alt="image of baby which seems to be on a cloud" />
+                </dt>
+                <dd class="col-sm-9">
+                    This image is copyright &copy; Gelpi. It was purchased and licensed from the
+                    <a target="_blank" href="https://stock.adobe.com/">Adobe Stock</a> website.
+                </dd>
+            </div>
+
+            <div class="row">
+                <dt class="col-sm-3">
+                    <img class="img-circle" src="images/happy-baby-in-action-smiling-sticking-out-tongue.jpg" alt="happy baby in action smiling sticking out tongue" />
+                </dt>
+                <dd class="col-sm-9">
+                    This image by
+                    <a href="https://pixabay.com/en/users/Pexels-2286921/">pexels-2286921</a> is from the
+                    <a target="_blank" href="https://pixabay.com/en/people-bed-baby-newborn-child-1839564/">pixabay</a>
+                    website, and has been placed in the public domain using the
+                    <a target="_blank" href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Zero 1.0 Public Domain License</a>.
+                </dd>
+            </div>
+
+            <div class="row">
+                <dt class="col-sm-3">
+                    <img src="images/mother-and-baby-all-smiles.jpeg" alt="mother and baby - all smiles" />
+                </dt>
+                <dd class="col-sm-9">
+                    This image is copyright &copy; digitalskillet1. It was purchased and licensed from the
+                    <a target="_blank" href="https://stock.adobe.com/">Adobe Stock</a> website.
+                </dd>
+            </div>
+
+            <div class="row">
+                <dt class="col-sm-3">
+                    <img class="img-circle" src="images/baby-girl-in-a-floral-bonnet.jpg" alt="baby girl in a floral bonnet" />
+                </dt>
+                <dd class="col-sm-9">
+                    This copyright &copy; image is from the personal files of Pregnancy Aid of Washington. All rights reserved.
+                </dd>
+            </div>
+
+            <div class="row">
+                <dt class="col-sm-3">
+                    <img src="images/father-and-baby-all-smiles.jpeg" alt="image of baby at a picnic" />
+                </dt>
+                <dd class="col-sm-9">
+                    This image is copyright &copy; Monart Design. It was purchased and licensed from the
+                    <a target="_blank" href="https://stock.adobe.com/">Adobe Stock</a> website.
+                </dd>
+            </div>
+
+            <div class="row">
+                <dt class="col-sm-3">
+                    <img src="images/baby-boy-cozy-blankets-hat.jpeg" alt="baby boy - cozy - blankets and hat" />
+                </dt>
+                <dd class="col-sm-9">
+                    This image by
+                    <a href="https://pixabay.com/en/users/yiki87515-3408203/">yiki87515</a> is from the
+                    <a target="_blank" href="https://pixabay.com/en/music-kids-baby-new-students-boy-1702404/">pixabay</a>
+                    website, and has been placed in the public domain using the
+                    <a target="_blank" href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Zero 1.0 Public Domain License</a>.
+                </dd>
+            </div>
+
+            <div class="row">
+                <dt class="col-sm-3">
+                    <img src="desmoines/images/moms-and-babies-multi-ethnic.png" alt="moms and their babies - multi-ethnic" />
+                </dt>
+                <dd class="col-sm-9">
+                    This image is copyright &copy; sayu_k. It was purchased and licensed from the
+                    <a target="_blank" href="https://istockphoto.com/">iStock by Getty Images</a> website.
+                </dd>
+            </div>
+
+        </div> <!-- /image-credits -->
+        <!--#include file="_zFooter-Nav.html" -->
+    </div> <!-- /container -->
+    <!--#include file="_zFooter-zBootstrap.html" -->
+</body>
+</html>

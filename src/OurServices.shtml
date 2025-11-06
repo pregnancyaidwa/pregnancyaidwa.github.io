@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<!-- Copyright (c) 2017 Pregnancy Aid of Washington State -->
+<html lang="en">
+<head>
+    <!--#include file="_Head1.html" -->
+    <meta name="description" 
+          content="Services offered by our staff at Pregnancy Aid of Washington. All Services are free of charge and confidential." 
+          />
+    <meta name="author" content="Pregnancy Aid" />
+    <title>Our Services - Pregnancy Aid of Washington</title>
+    <!--#include file="_Head2.html" -->
+</head>
+<body>
+    <!--#include file="_TopNav.html" -->
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="lobster-big text-success">
+                    Our Services
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-3">
+                <img class="img-responsive" src="images/father-and-baby-all-smiles.jpeg" alt="image of baby at a picnic" />
+            </div>
+            <div class="col-sm-6">
+                <div>
+                    <p class="section-heading">
+                        Pregnancy Aid helps by providing:
+                    </p>
+                    <ul class="fa-ul">
+                        <li><i class="fa-li fa fa-heart"></i>Decision making information</li>
+                        <li><i class="fa-li fa fa-heartbeat"></i>Referrals to prenatal care</li>
+                        <li><i class="fa-li fa fa-heart-o"></i>Layettes for infants and those with special needs or those who are premature</li>
+                        <li><i class="fa-li fa fa-heart"></i>Car seats and strollers</li>
+                        <li><i class="fa-li fa fa-heartbeat"></i>Positive emotional support</li>
+                        <li><i class="fa-li fa fa-heart-o"></i>Maternity clothing</li>
+                        <li><i class="fa-li fa fa-heart"></i>Baby and children's clothing</li>
+                        <li><i class="fa-li fa fa-heartbeat"></i>Infant formula and diapers</li>
+                        <li><i class="fa-li fa fa-heart-o"></i>Baby furniture</li>
+                        <li><i class="fa-li fa fa-heart"></i>Referrals for other services</li>
+                        <li><i class="fa-li fa fa-heartbeat"></i>Additional services as needed and available</li>
+                    </ul>
+                    <p>
+                        Perhaps the most important service, though, is the friendship and concern that is given to every person who contacts Pregnancy Aid.
+                    </p>
+                </div>
+            </div>
+            <div class="col-sm-3"> 
+                <img class="img-responsive center-block" src="images/baby-boy-cozy-blankets-hat.jpeg" alt="baby boy - cozy - blankets and hat" />
+            </div>
+        </div>
+        <br />
+        <!--#include file="_Highlights.html" -->
+        <br />
+        <!--#include file="_WeCare.html" -->
+        <!--#include file="_zFooter-Nav.html" -->
+    </div> <!-- /container -->
+    <!--#include file="_zFooter-zBootstrap.html" -->
+</body>
+</html>

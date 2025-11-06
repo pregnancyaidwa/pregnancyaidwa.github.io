@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<!-- Copyright (c) 2017 Pregnancy Aid of Washington State -->
+<html lang="en">
+<head>
+    <!--#include file="_Head1.html" -->
+    <meta name="description" 
+          content="Find out how you can help the people in your community! Become a volunteer with Pregnancy Aid and help our clients build solid foundations for their lives." 
+          />
+    <meta name="author" content="Pregnancy Aid" />
+    <title>Volunteer - Pregnancy Aid of Washington</title>
+    <!--#include file="_Head2.html" -->
+</head>
+<body>
+    <!--#include file="_TopNav.html" -->
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="lobster-big text-success">
+                    You can help too!
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-3">
+                <img class="img-responsive" src="images/baby-girl-smiling.jpeg" alt="baby girl smiling" />
+            </div>
+            <div class="col-sm-9">
+                <p class="section-heading">
+                    Your assistance is essential to the work of Pregnancy Aid
+                </p>
+                <p>
+                    Pregnancy Aid depends upon private contributes of time, money, and in-kind donations.
+
+                    Our needs vary by location. Services provided by our volunteers include helping during office hours,
+                    supporting our computer and media systems, making sure car seats and cribs are safe, and repairing
+                    or cleaning baby items.
+                </p>
+                <p class="section-heading">
+                    Money and in-kind donations
+                </p>
+                <p>
+                    Please send your financial or in-kind donation to the <a href="FindUs.shtml">nearest</a> Pregnancy Aid office.
+                    Some offices can accept an <a href="Donate.shtml">online donation</a>.
+                    Donations are generally tax-deductible. We will be happy to provide you with a receipt for your donation.
+                </p>
+                <p class="section-heading">
+                    Even a couple of hours a week is appreciated!
+                </p>
+                <p>
+                    If you can help as a volunteer, working in one of our offices, or even in your own home,
+                    please visit, call, or email your nearest office for a volunteer application.
+                    Some volunteers work with clients, some sew at home, others manage a social media account
+                    or help with fund-raising. Both professional and non-professional services are welcome.
+                </p>
+                <p class="section-heading">
+                    <a href="FindUs.shtml">Find an office near you and join our mission to help our communities!</a>
+                </p>
+            </div>
+            <div class="row">
+                <div class="col-sm-12">
+                </div>
+            </div>
+        </div>
+        <br />
+        <!--#include file="_Highlights.html" -->
+        <br />
+        <!--#include file="_WeCare.html" -->
+        <!--#include file="_zFooter-Nav.html" -->
+    </div> <!-- /container -->
+    <!--#include file="_zFooter-zBootstrap.html" -->
+</body>
+</html>

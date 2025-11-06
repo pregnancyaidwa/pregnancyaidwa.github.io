@@ -1,0 +1,217 @@
+﻿<!DOCTYPE html>
+<!-- Copyright (c) 2017 Pregnancy Aid of Washington State -->
+<html lang="en">
+<head>
+    <!--#include file="_Head1.html" -->
+    <meta name="description"
+          content="Come chat with us! We provide free and confidential conversation in a caring environment. Find the office location nearest to you." />
+    <meta name="author" content="Pregnancy Aid" />
+    <title>Find us - Pregnancy Aid of Washington</title>
+    <!--#include file="_Head2.html" -->
+</head>
+<body>
+    <!--#include file="_TopNav.html" -->
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-12 col-md-6"> <!-- addresses -->
+                <div class="row">
+                    <div class="col-sm-6"> <!-- row1 col1 -->
+                        <div class="row">
+                            <div class="col-xs-12 text-wrap">
+                                <h3 class="text-success text-nowrap" style="display: inline;">Pregnancy Aid</h3>
+                                <h3 class="text-success text-nowrap" style="display: inline;">of Auburn</h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-offset-2 col-xs-10">
+                                <div><a href="tel:253-939-6676">253-939-6676</a></div>
+                                <div>517 F Street SE</div>
+                                <div>Auburn, WA 98002</div>
+                                <div>
+                                    <a target="_blank" href="https://www.google.com/maps/dir//Pregnancy+Aid+of+Auburn,+517+F+St+Se,+%231,+Auburn,+WA+98002,+Auburn,+WA+98002/@47.3026987,-122.2238957,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x549058776e2389af:0xf9a2b175740587ee!2m2!1d-122.2217066!2d47.3026458">get directions</a>
+                                    /
+                                    <a target="_blank" href="https://www.google.com/maps/place/Pregnancy+Aid+of+Auburn/@47.3026987,-122.2238957,17z/data=!4m18!1m12!4m11!1m3!2m2!1d-122.221192!2d47.3026369!1m6!1m2!1s0x549058776e2389af:0xf9a2b175740587ee!2sPregnancy+Aid+of+Auburn,+517+F+St+Se,+%231,+Auburn,+WA+98002,+Auburn,+WA+98002!2m2!1d-122.2217066!2d47.3026458!3m4!1s0x549058776e2389af:0xf9a2b175740587ee!8m2!3d47.3026458!4d-122.2217066\">more info</a>
+                                </div>
+                                <div>&nbsp;<!-- no website --></div>
+                            </div>
+                        </div>
+                    </div> <!-- end row1 col1 -->
+                    <div class="col-sm-6"> <!-- row1 col2 -->
+                        <div class="row">
+                            <div class="col-xs-12 text-wrap">
+                                <h3 class="text-success text-nowrap" style="display: inline;">Pregnancy Aid</h3>
+                                <h3 class="text-success text-nowrap" style="display: inline;">of Des Moines</h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-offset-2 col-xs-10" ">
+                                <div><a href="tel:206-878-3770">206-878-3770</a></div>
+                                <div>730 S 225th Steeet</div>
+                                <div>Des Moines, WA 98198</div>
+                                <div>
+                                    <a target="_blank" href="https://www.google.com/maps/dir//Pregnancy+Aid+of+Des+Moines,+730+S+225th+St,+Des+Moines,+WA+98198/@47.4012473,-122.3269915,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x54905b22021c0dc9:0x55f2db9a833aae1c!2m2!1d-122.3253155!2d47.4005837!3e0?hl=en-US">get directions</a>
+                                    /
+                                    <a target="_blank" href="https://www.google.com/maps/place/Pregnancy+Aid+of+Des+Moines/@47.4005837,-122.3253155,15z/data=!4m6!3m5!1s0x54905b22021c0dc9:0x55f2db9a833aae1c!8m2!3d47.4005837!4d-122.3253155!16s%2Fg%2F11sht497h2">more info</a>
+                                </div>
+                                <div>
+                                    <a target="_blank" href="https://pregnancyaidskc.org/">visit our website</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div> <!-- end row1 col2 -->
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-sm-6"> <!-- row2 col1 -->
+                        <div class="row">
+                            <div class="col-xs-12 text-wrap">
+                                <h3 class="text-success text-nowrap" style="display: inline;">Pregnancy Aid</h3>
+                                <h3 class="text-success text-nowrap" style="display: inline;">of Kent</h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-offset-2 col-xs-10">
+                                <div><a href="tel:253-852-1201">253-852-1201</a></div>
+                                <div>1209 S Central Avenue, Suite 204</div>
+                                <div>Kent, WA 98032</div>
+                                <div>
+                                    <a target="_blank" href="https://www.google.com/maps/dir//Pregnancy+Aid+of+Kent,+1209+Central+Ave+S+%23+204,+Kent,+WA+98032/@47.3685097,-122.2347988,16z/data=!4m9!4m8!1m0!1m5!1m1!1s0x5490594592d1203f:0xbaf9afe422facfa4!2m2!1d-122.230421!2d47.3684569!3e3?hl=en-US">get directions</a>
+                                    /
+                                    <a target="_blank" href="https://www.google.com/maps/place/Pregnancy+Aid+of+Kent/@47.3684605,-122.2347984,16z/data=!4m5!3m4!1s0x5490594592d1203f:0xbaf9afe422facfa4!8m2!3d47.3684569!4d-122.230421?hl=en-US">more info</a>
+                                </div>
+                                <div>&nbsp;<!-- no website --></div>
+                            </div>
+                        </div>
+                    </div> <!-- end row2 col1 -->
+                    <div class="col-sm-6"> <!-- row2 col2 -->
+                        <div class="row">
+                            <div class="col-xs-12 text-wrap">
+                                <h3 class="text-success text-nowrap" style="display: inline;">Pregnancy Aid</h3>
+                                <h3 class="text-success text-nowrap" style="display: inline;">of Tacoma</h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-offset-2 col-xs-10">
+                                <div><a href="tel:253-383-4100">253-383-4100</a></div>
+                                <div>902 Market Street</div>
+                                <div>(First Baptist Church)</div>
+                                <div>Tacoma, WA 98402</div>
+                                <div>
+                                    <a target="_blank" href="https://www.google.com/maps/dir//Pregnancy+Aid+of+Tacoma,+902+Market+St,+Tacoma,+WA+98402/@47.2548236,-122.4445297,17z/data=!4m15!1m6!3m5!1s0x5490550a762c1967:0x82ea181ec2b1752e!2sPregnancy+Aid+of+Tacoma!8m2!3d47.25482!4d-122.442341!4m7!1m0!1m5!1m1!1s0x5490550a762c1967:0x82ea181ec2b1752e!2m2!1d-122.442341!2d47.25482">get directions</a>
+                                    /
+                                    <a target="_blank" href="https://www.google.com/maps/place/Pregnancy+Aid+of+Tacoma/@47.2548236,-122.4445297,17z/data=!3m1!4b1!4m5!3m4!1s0x5490550a762c1967:0x82ea181ec2b1752e!8m2!3d47.25482!4d-122.442341">more info</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div> <!-- end row2 col2 -->
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-sm-6"> <!-- row3 col1 -->
+                        <div class="row">
+                            <div class="col-xs-12 text-wrap">
+                                <h3 class="text-success text-nowrap" style="display: inline;">Pregnancy Aid of</h3>
+                                <h3 class="text-success text-nowrap" style="display: inline;">Thurston County</h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-offset-2 col-xs-10">
+                                <div><a href="tel:360-956-7413">360-956-7413</a></div>
+                                <div>1021 Boundary Street SE</div>
+                                <div>(St. Michael's Church)</div>
+                                <div>Olympia, WA 98507</div>
+                                <div>
+                                    <a target="_blank" href="https://www.google.com/maps/dir//Pregnancy+Aid+Thurston+County,+1021+Boundary+St+SE,+1208+Boundary+St+SE,+Olympia,+WA+98501/@47.0400416,-122.8946729,15z/data=!4m15!1m6!3m5!1s0x549174e0bb864cf5:0xcf17fa61a0bc5977!2sPregnancy+Aid+Thurston+County!8m2!3d47.040038!4d-122.8859182!4m7!1m0!1m5!1m1!1s0x549174e0bb864cf5:0xcf17fa61a0bc5977!2m2!1d-122.8859182!2d47.040038?hl=en-US">get directions</a>
+                                    /
+                                    <a target="_blank" href="https://www.google.com/maps/place/Pregnancy+Aid+Thurston+County/@47.0400416,-122.8946729,15z/data=!4m5!3m4!1s0x549174e0bb864cf5:0xcf17fa61a0bc5977!8m2!3d47.040038!4d-122.8859182?hl=en-US">more info</a>
+                                </div>
+                                <div>&nbsp;<!-- no website --></div>
+                            </div>
+                        </div>
+                    </div> <!-- end row3 col1 -->
+                    <div class="col-sm-6"> <!-- row3 col2 -->
+                        <div class="row">
+                            <div class="col-xs-12 text-wrap">
+                                <h3 class="text-success text-nowrap" style="display: inline;">Pregnancy Aid</h3>
+                                <h3 class="text-success text-nowrap" style="display: inline;">WIC</h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-offset-2 col-xs-10">
+                                <div><a href="tel:425-316-8929">425-316-8929</a></div>
+                                <div>1819 100th Place SE Suite B</div>
+                                <div>Everett, WA 98208</div>
+                                <div>
+                                    <a target="_blank" href="https://www.google.com/maps/dir//Pregnancy+Aid+WIC,+1819+100th+Pl+SE+Suite+B,+Everett,+WA+98208/@47.9070336,-122.2118566,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x549007281e8d4593:0x80a848e3a5587026!2m2!1d-122.2074792!2d47.9070336">get directions</a>
+                                    /
+                                    <a target="_blank" href="https://www.google.com/maps/place/Pregnancy+Aid+WIC/@47.9070336,-122.2118566,16z/data=!4m5!3m4!1s0x549007281e8d4593:0x80a848e3a5587026!8m2!3d47.9070336!4d-122.2074792">more info</a>
+                                </div>
+                                <div>
+                                    <a target="_blank" href="https://www.pregnancyaid-wic.org/">visit our website</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div> <!-- end row3 col2 -->
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-sm-3"> <!-- row4 half-col1 -->
+                    </div> <!-- end row4 col1 -->
+                    <div class="col-sm-6"> <!-- row4 col2 -->
+                        <div class="row">
+                            <br />
+                            <br />
+                            <div class="col-xs-12 text-wrap">
+                                <h4 class="text-success text-nowrap" style="display: inline;">Affiliate Agency:</h4>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-12 text-wrap">
+                                <h3 class="text-success text-nowrap" style="display: inline;">Two Hearts</h3>
+                                <h3 class="text-success text-nowrap" style="display: inline;">Pregnancy Aid</h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-offset-2 col-xs-10">
+                                <div><a href="tel:425-252-6444">425-252-6444</a></div>
+                                <div>3202 Hoyt Avenue</div>
+                                <div>Everett, WA 98201</div>
+                                <div class="text-nowrap">
+                                    <a target="_blank" href="https://www.google.com/maps/dir//Pregnancy+Aid+of+Snohomish+County,+3202+Hoyt+Ave,+Everett,+WA+98201/@47.9749965,-122.2145475,16z/data=!4m15!1m6!3m5!1s0x549aaa9f2e106c43:0x8144c164a28de98e!2sPregnancy+Aid+of+Snohomish+County!8m2!3d47.9749929!4d-122.2101701!4m7!1m0!1m5!1m1!1s0x549aaa9f2e106c43:0x8144c164a28de98e!2m2!1d-122.2101701!2d47.9749929?hl=en-US">get directions</a>
+                                    /
+                                    <a target="_blank" href="https://www.google.com/maps/place/Pregnancy+Aid+of+Snohomish+County/@47.9749965,-122.2145475,16z/data=!4m5!3m4!1s0x549aaa9f2e106c43:0x8144c164a28de98e!8m2!3d47.9749929!4d-122.2101701?hl=en-US">more info</a>
+                                </div>
+                                <div>
+                                    <a target="_blank" href="https://www.twoheartswa.org/">visit our website</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div> <!-- end row4 col2 -->
+                </div>
+                <!-- final row
+                <br />
+                <div class="row">
+                    <div class="col-sm-12 small text-center">
+                        This website is maintained by
+                        <a target="_blank" href="https://www.google.com/maps/place/Pregnancy+Aid+Thurston+County/@47.0400416,-122.8946729,15z/data=!4m5!3m4!1s0x549174e0bb864cf5:0xcf17fa61a0bc5977!8m2!3d47.040038!4d-122.8859182?hl=en-US"
+                           >Pregnancy Aid of Thurston County</a>.
+                    </div>
+                </div>
+                <br /> 
+                -->
+            </div> <!-- /addresses -->
+            <div class="col-sm-12 col-md-6"> <!-- map -->
+                <!--<iframe style="width:100%;" src="https://www.google.com/maps/embed?pb=!1m12!1m8!1m3!1d689278.3675250065!2d-122.66172041796874!3d47.55818342522684!3m2!1i1024!2i768!4f13.1!2m1!1spregnancy+aid+of+washington!5e0!3m2!1sen!2sus!4v1505705330906" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>-->
+                <!--<iframe style="width:100%;" src="https://www.google.com/maps/embed?pb=!1m12!1m8!1m3!1d690156.2706517356!2d-122.66172041796874!3d47.49141469583279!3m2!1i1024!2i768!4f13.1!2m1!1spregnancy+aid+of+washington!5e0!3m2!1sen!2sus!4v1505705391926" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>-->
+                <iframe src="https://www.google.com/maps/embed?pb=!1m12!1m8!1m3!1d690205.0460902456!2d-122.42276799999999!3d47.487703!3m2!1i1024!2i768!4f13.1!2m1!1spregnancy+aid+of+washington!5e0!3m2!1sen!2sus!4v1506820440152" width="555" height="600" frameborder="0" style="border:0; width: 100%;" allowfullscreen></iframe>
+            </div> <!-- /map -->
+        </div>
+        <br />
+        <!--#include file="_Highlights.html" -->
+        <br />
+        <!--#include file="_WeCare.html" -->
+        <!--#include file="_zFooter-Nav.html" -->
+    </div> <!-- /container -->
+    <!--#include file="_zFooter-zBootstrap.html" -->
+</body>
+</html>

@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<!-- Copyright (c) 2017 Pregnancy Aid of Washington State -->
+<html lang="en">
+<head>
+    <!--#include file="_Head1.html" -->
+    <meta name="description" 
+          content="Find out more about the staff and mission of Pregnancy Aid of Washington." 
+          />
+    <meta name="author" content="Pregnancy Aid" />
+    <title>Who We Are - Pregnancy Aid of Washington</title>
+    <!--#include file="_Head2.html" -->
+</head>
+<body>
+    <!--#include file="_TopNav.html" -->
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="lobster-big text-success">
+                    Who We Are
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-4 visible-xs">
+                <img class="img-circle img-responsive" src="images/baby-girl-in-a-floral-bonnet.jpg" alt="baby in a floral bonnet smiling with big cup of water" />
+            </div>
+            <div class="col-sm-8">
+                <div>
+                    <p class="section-heading">
+                        What is Pregnancy Aid?
+                    </p>
+                    <p>
+                        Pregnancy Aid is a non-sectarian social services agency that provides immediate, confidential
+                        help to any family with a pregnant mom or a child aged 5 years or younger.
+                    </p>
+                    <p>
+                        Personal, practical and emotional support are given on a one-to-one basis at no charge and with 
+                        no strings atached.
+                    </p>
+                    <p class="section-heading">
+                        How can Pregnancy Aid provide these services without charge to its clients?
+                    </p>
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <img class="img-responsive" src="images/father-and-baby-sleeping.jpg" alt="father and baby sleeping" />
+                        </div>
+                        <div class="col-sm-6">
+                            <p>
+                                Pregnancy Aid is a non-profit 501(c)3, run by volunteers and funded by generous donors who truly care.
+                                Passionate volunteers contribute thousands of hours every year to ensure that Pregnancy Aid is available
+                                for those in need.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4 hidden-xs">
+                <img class="img-circle img-responsive" src="images/baby-girl-in-a-floral-bonnet.jpg" alt="baby in a floral bonnet smiling with big cup of water" />
+            </div>
+        </div>
+        <br />
+        <!--#include file="_Highlights.html" -->
+        <br />
+        <!--#include file="_WeCare.html" -->
+        <!--#include file="_zFooter-Nav.html" -->
+    </div> <!-- /container -->
+    <!--#include file="_zFooter-zBootstrap.html" -->
+</body>
+</html>

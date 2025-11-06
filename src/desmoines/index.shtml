@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<!-- Copyright (c) 2017 Pregnancy Aid of Washington State -->
+<html lang="en">
+<head>
+    <!--#include virtual="../_Head1.html" -->
+    <meta name="description" 
+          content="Pregnancy Aid of Des Moines Clothing and Supplies. Shop free for babies, children, and mothers needing help." 
+          />
+    <meta name="author" content="Pregnancy Aid" />
+    <title>Pregnancy Aid of Des Moines</title>
+    <!--#include virtual="../_Head2.html" -->
+    <script>
+        window.onload = function() {
+            let iframe = document.getElementById('infoframe')
+            iframe.height = iframe.contentWindow.document.body.scrollHeight
+        }
+    </script>
+</head>
+<body>
+    <!--#include virtual="../_TopNav.html" -->
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-offset-3 col-sm-6">
+                <!-- img size is "responsive" (fluid) for xs only -->
+                <img class="img-responsive center-block" src="images/moms-and-babies-multi-ethnic.png"
+                    alt="moms and their babies - multi-ethnic" />
+            </div>
+            <div class="col-sm-offset-2 col-sm-8">
+
+                <p class="lead text-center">Pregnancy Aid of Des Moines</p>
+                <p class="text-center"><i>
+                    Clothing and Supplies • Always Free • Always Confidential
+                </i></p>
+                <p class="text-center">
+                    730 S. 225th Street, Des Moines WA 98198<br />
+                    MONDAY, WEDNESDAY, FRIDAY<br />
+                    10 a.m. to 1 p.m.
+                </p>
+
+                <p class="section-heading">
+                    Shop free for babies, children, and mothers needing help
+                </p>
+                <p>
+                    We welcome mothers and family members. They choose what they need from among clean new and
+                    gently used items donated to us, including:
+                </p>
+                <ul class="fa-ul">
+                    <li><i class="fa-li fa fa-heart desmoines-color"></i>maternity clothes and nursing supplies</li>
+                    <li><i class="fa-li fa fa-heart desmoines-color"></i>baby diapers, clothes, and supplies</li>
+                    <li><i class="fa-li fa fa-heart desmoines-color"></i>baby equipment such as portable cribs, car seats, and strollers</li>
+                    <li><i class="fa-li fa fa-heart desmoines-color"></i>children's clothes up to size 6</li>
+                    <li><i class="fa-li fa fa-heart desmoines-color"></i>toys and books</li>
+                </ul>
+                <p>
+                    Shoppers who register with their ID may return to shop every 30 days. We keep their personal
+                    information confidential.
+                </p>
+
+                <p class="section-heading">
+                    We are a nonprofit run entirely by volunteers
+                </p>
+                <p>
+                    Drop by with items to donate or with a monetary donation and ask about volunteer opportunities.
+                </p>
+                <p>
+                    Cash donations help us buy high-demand items such as diapers, as well as pay for supplies, rent,
+                    telephone service, and other expenses. 
+                </p>
+                <p>
+                    Volunteers work in our shop during operating hours sorting donations and helping shoppers.
+                    Off-hour and work-from-home volunteers help with laundry, administrative duties, and other tasks.
+                </p>
+                <p>
+                    We are not religiously sponsored. We offer no medical or counseling services.
+                </p>
+            </div>
+        </div>
+        <br />
+        <!--#include virtual="../_Highlights.html" -->
+        <br />
+        <!--#include virtual="../_WeCare.html" -->
+        <!--#include virtual="../_zFooter-Nav.html" -->
+    </div> <!-- /container -->
+    <!--#include virtual="../_zFooter-zBootstrap.html" -->
+</body>
+</html>

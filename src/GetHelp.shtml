@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<!-- Copyright (c) 2017 Pregnancy Aid of Washington State -->
+<html lang="en">
+<head>
+    <!--#include file="_Head1.html" -->
+    <meta name="description" 
+          content="We are here to help you! All assistance is free of charge and confidential." 
+          />
+    <meta name="author" content="Pregnancy Aid" />
+    <title>Get Help - Pregnancy Aid of Washington</title>
+    <!--#include file="_Head2.html" -->
+</head>
+<body>
+    <!--#include file="_TopNav.html" -->
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="lobster-big text-success">
+                    How do families get help from Pregnancy Aid?
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-4">
+                <img class="img-responsive img-circle" src="images/happy-baby-in-action-smiling-sticking-out-tongue.jpg" alt="happy baby in action smiling sticking out tongue" />
+            </div>
+            <div class="col-sm-8">
+                <div>
+                    <p>
+                        If you're pregnant or have young children, and you need help, YOU ARE NOT ALONE.
+                        Pregnancy Aid cares about you and is ready to help you.
+                    </p>
+                    <p class="section-heading">
+                        Help is as near as the Pregnancy Aid office in your community.
+                    </p>
+                    <p>
+                        We have a presence up and down the Puget Sound area from Olympia to Everett.
+                        Simply come on in during our hours of operation.
+                        You are welcome to drop into our offices any time.
+                        No appointment is ever needed.
+                        <a href="/FindUs.shtml">Find an office near you.</a>
+                    </p>
+                    <p>
+                        We can help you get the information you need to make important decisions.
+                    </p>
+                    <p>
+                        We can help provide you with material support, including infant clothing, car seats, 
+                        maternity clothing, and more.
+                    </p>
+                    <p class="section-heading">
+                        Check out <a href="OurServices.shtml">our list of services</a>. 
+                    </p>
+                    <p>
+                        Services are always provided without charge by friendly volunteers who care for you.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <br />
+        <!--#include file="_Highlights.html" -->
+        <br />
+        <!--#include file="_WeCare.html" -->
+        <!--#include file="_zFooter-Nav.html" -->
+    </div> <!-- /container -->
+    <!--#include file="_zFooter-zBootstrap.html" -->
+</body>
+</html>
