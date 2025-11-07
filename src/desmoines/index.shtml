@@ -7,6 +7,12 @@
           content="Pregnancy Aid of Des Moines Clothing and Supplies. Shop free for babies, children, and mothers needing help." 
           />
     <meta name="author" content="Pregnancy Aid" />
+
+    <!-- -------------------------------- -->
+    <!-- note redirect to current site!!! -->
+    <!-- -------------------------------- -->
+    <meta http-equiv="refresh" content="0; url=https://pregnancyaidskc.org/" />
+
     <title>Pregnancy Aid of Des Moines</title>
     <!--#include virtual="../_Head2.html" -->
     <script>
