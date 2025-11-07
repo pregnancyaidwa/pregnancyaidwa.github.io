@@ -36,7 +36,9 @@ copy-file() {
             local include_dir="$(dirname "$include_file")" # e.g. . or ..
             local base_dir="$(dirname "$infile")"
             echo "- including $base_dir/$include_file into $outfile ($include_dir)"
+            echo "${line/\#include/ BEGIN}" >> "$outfile"
             copy-file "$base_dir/$include_file" "$outfile" "$include_dir"
+            echo "${line/\#include/ END}" >> "$outfile"
             continue
         fi
 
