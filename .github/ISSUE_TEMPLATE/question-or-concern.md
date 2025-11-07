@@ -9,5 +9,6 @@ assignees: ''
 
 NOTE: This submission is a Contribution to the project, subject to the terms described in [CONTRIBUTING.md](/CONTRIBUTING.md) and [LICENSE.md](/LICENSE.md).
 
-**Question or Concern**
+## Question or Concern
+
 (Please describe your question or concern. Thank you!)
