@@ -16,7 +16,7 @@ NOTE: All Contributions you make become property of Pregnancy Aid of Washington 
 
 [start a discussion]: https://github.com/pregnancyaidwa/pregnancyaidwa.github.io/issues
 [submit a proposed change]: https://github.com/pregnancyaidwa/pregnancyaidwa.github.io/pulls
-[contact us]: https://pregnancyaidwa.org/FindUs.shtml
+[contact us]: https://pregnancyaidwa.org/FindUs.html
 
 ## COPYRIGHT
 
