@@ -81,8 +81,8 @@ find "$src" -type f | while read -r file; do
     fi
 
     # rename *.shtml to *.html
-    local redirect_from, redirect_target
     redirect_from=""
+    redirect_target=""
     if [[ "$filename" == *.shtml ]]; then
         redirect_from="$dest/$rel_path"
         rel_path="${rel_path%.shtml}.html"
