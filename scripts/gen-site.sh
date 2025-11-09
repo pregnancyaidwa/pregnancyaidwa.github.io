@@ -63,6 +63,11 @@ SHTML_HREF_REGEX='href="([^"]+)\.shtml"'
 RELATIVE_REF_REGEX='(href|src)="(\./[^"]*)"'
 
 
+generate-redirect-file() {
+    echo TBD
+}
+
+
 # process all files in $src, including subdirectories
 find "$src" -type f | while read -r file; do
     echo "processing $file"
@@ -76,14 +81,22 @@ find "$src" -type f | while read -r file; do
     fi
 
     # rename *.shtml to *.html
+    local redirect_from, redirect_target
+    redirect_from=""
     if [[ "$filename" == *.shtml ]]; then
+        redirect_from="$dest/$rel_path"
         rel_path="${rel_path%.shtml}.html"
+        redirect_target="$(basename $rel_path)"
     fi
 
     out_file="$dest/$rel_path"
     out_dir="$(dirname "$out_file")"
     mkdir -p "$out_dir"
     > "$out_file"  # create or empty the output file
+    if [[ -n $redirect_from ]]; then
+        echo "generating redirect file $redirect_from --> $redirect_target"
+        generate-redirect-file "$redirect_from" "$redirect_target"
+    fi
     echo "generating $out_file"
     copy-file "$file" "$out_file"
 done
