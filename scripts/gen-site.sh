@@ -18,6 +18,7 @@ copy-file() {
     local infile="$1"
     local outfile="$2"
     local relative_ref="${3:-.}" # e.g. . or ..
+    local redirect_target="${4:-}"
 
     local extension="${infile##*.}"
     if [[ "$extension" != "shtml" && "$extension" != "html" ]]; then
@@ -31,6 +32,8 @@ copy-file() {
         # remove BOM if present
         line="${line//$'\uFEFF'/}"
 
+        line="${line//<!--#redirect-target-->/$redirect_target}"
+        
         if [[ $line =~ $SSI_REGEX ]]; then
             local include_file="${BASH_REMATCH[2]}"
             local include_dir="$(dirname "$include_file")" # e.g. . or ..
@@ -63,11 +66,6 @@ SHTML_HREF_REGEX='href="([^"]+)\.shtml"'
 RELATIVE_REF_REGEX='(href|src)="(\./[^"]*)"'
 
 
-generate-redirect-file() {
-    echo TBD
-}
-
-
 # process all files in $src, including subdirectories
 find "$src" -type f | while read -r file; do
     echo "processing $file"
@@ -95,7 +93,7 @@ find "$src" -type f | while read -r file; do
     > "$out_file"  # create or empty the output file
     if [[ -n $redirect_from ]]; then
         echo "generating redirect file $redirect_from --> $redirect_target"
-        generate-redirect-file "$redirect_from" "$redirect_target"
+        copy-file "$src/_rediect.shtml" "$redirect_from" "." "$redirect_target"
     fi
     echo "generating $out_file"
     copy-file "$file" "$out_file"
