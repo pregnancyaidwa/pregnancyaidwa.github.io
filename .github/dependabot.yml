@@ -1,0 +1,13 @@
+version: 2
+
+updates:
+  - package-ecosystem: "github-actions"
+    directories:
+      - "/"
+    schedule:
+      interval: "weekly"
+      day: "tuesday"
+      timezone: "America/Los_Angeles"
+    cooldown:
+      default-days: 7
+    open-pull-requests-limit: 5

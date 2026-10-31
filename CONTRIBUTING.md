@@ -2,6 +2,9 @@
 
 Thanks for your interest in contributing to this project!
 
+Follow the [repository conventions](CONVENTIONS.md), including the requirements
+for pinning and updating GitHub Actions dependencies.
+
 Please note that Contributions you make become the property of Pregnancy Aid of Washington State.
 In other words, you are donating your ideas and works, giving up any claim to copyright or
 licensing restrictions for your Contributions. By "Contribution" we mean anything that is

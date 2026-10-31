@@ -1,5 +1,9 @@
 # Pregnancy Aid of Washington - AI Coding Assistant Instructions
 
+Follow [repository conventions](../CONVENTIONS.md) when creating or modifying
+GitHub Actions workflows or composite actions, including full commit SHA pins,
+release version comments, least-privilege permissions, and Dependabot settings.
+
 ## Project Overview
 This is a static website for Pregnancy Aid of Washington, a non-profit organization serving pregnant women and families. The site uses **Server Side Includes (SSI)** with `.shtml` files and Bootstrap 3 for styling.
 
